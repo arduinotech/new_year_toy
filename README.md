@@ -6,6 +6,8 @@ Project page on website: [https://arduino-technology.ru/projects/new-year-toy/](
 
 <F3>![New year rgb photo](https://raw.githubusercontent.com/arduinotech/new_year_toy/master/toy.jpg)
 
+Component connection diagram:
+
 <F3>![New year rgb schema](https://raw.githubusercontent.com/arduinotech/new_year_toy/master/new_year_toy_schema.jpg)
 
 Used components:
